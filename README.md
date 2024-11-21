@@ -22,7 +22,7 @@ If the link doesn’t work, please let me know at pratyusj@andrew.cmu.edu
 ## **Project Overview**
 
 ### **1. Native Android Application**  
-The Android app enables users to search for actors and recommends three movies from their filmography. The UI is built with components like `TextView`, `EditText`, `Button`, and `RecyclerView`. Users can enter an actor's name, and the app makes an HTTP request to the backend service, parses the JSON response, and displays movie details such as titles, release dates, and posters. Graceful error handling ensures that the app shows a "No movies found" message if the search yields no results.
+The Android app enables users to search for actors and recommends three movies from their filmography. The UI is built with components like TextView, EditText, Button, and RecyclerView. Users can enter an actor's name, and the app makes an HTTP request to the backend service, parses the JSON response, and displays movie details such as titles, release dates, and posters. Graceful error handling ensures that the app shows a "No movies found" message if the search yields no results.
 
 ---
 
